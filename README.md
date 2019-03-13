@@ -1,2 +1,1 @@
-## Diamonds dataset from Kaggle
-*Model = SVM
+## Data visualization and analysis using various algorithms
